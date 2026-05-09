@@ -1,0 +1,9 @@
+1. Menambah relasi antar model done
+2. menambahkan data pemilik, kontrakan, peraturan, dan kelebihan (menammbahkan modal page untuk menambahkan 
+tab peraturan dan tab kelebihan)
+3. jika berhasil pindah ke edit data
+#edit data
+1. perbaiki form edit
+#form edit
+1. mencopaste metode add ke edit
+2. edit controller di php 

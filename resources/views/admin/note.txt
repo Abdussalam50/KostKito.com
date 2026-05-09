@@ -1,0 +1,7 @@
+1. fungsionalitas
+#route setiap menu ke controller
+2. id akan dihover
+
+#pemilik
+#kontrakkan
+#traffic

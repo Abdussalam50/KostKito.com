@@ -1,0 +1,22 @@
+{
+    "name":"KostKito.com",
+    "short_name":"KostKito.com",
+    "start_url":"/owner",
+    "display":"standalone",
+    "background_color":"#ffffff",
+    "theme_color":"#ff8238",
+    "icons":[
+        {
+            "src":"../img_logo/new_kostkito_form.png",
+            "sizes":"300x300",
+            "type":"image/png",
+            "form_factor":"wide"
+        },
+        {
+            "src":"../img_logo/new_kostkito_form.png",
+            "sizes":"300x300",
+            "type":"image/png",
+            "form_factor":"narrow"
+        }       
+    ]
+}
